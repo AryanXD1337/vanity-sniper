@@ -7,4 +7,4 @@ Discord Vanity Url Sniper
 ~ Created by RisinPlayZ#1337, obv.
 
 
-Discord Server - discord.gg/gamer
+Discord Server - https://discord.gg/spy
